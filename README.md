@@ -14,13 +14,13 @@ _Download the Theme and double-click on the file to install in Alfred._
 
 ![Minimal Light](Themes/Screenshots/screenshot-minimal.png)
 
-[Download Theme](http://drewb.io/download/Minimal%20Light.alfredappearance)
+[Download Theme](http://drewb.io/download/Minimal%20Light.zip)
 
 ### Yosemite (Custom)
 
 ![Yosemite (Custom)](Themes/Screenshots/screenshot-yosemite.png)
 
-[Download Theme](http://drewb.io/download/Yosemite%20(Custom).alfredappearance)
+[Download Theme](http://drewb.io/download/Yosemite%20(Custom).zip)
 
 Workflows
 ---------
