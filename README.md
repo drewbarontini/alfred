@@ -14,9 +14,13 @@ _Download the Theme and double-click on the file to install in Alfred._
 
 ![Minimal Light](Themes/Screenshots/screenshot-minimal.png)
 
+[Download Theme](http://drewb.io/download/Minimal%20Light.alfredappearance)
+
 ### Yosemite (Custom)
 
 ![Yosemite (Custom)](Themes/Screenshots/screenshot-yosemite.png)
+
+[Download Theme](http://drewb.io/download/Yosemite%20(Custom).alfredappearance)
 
 Workflows
 ---------
@@ -34,5 +38,5 @@ A Workflow to grab a GIF in a specificed category from [Gificiency](http://gific
 
 ![Gificiency](Workflows/Screenshots/screenshot-gificiency.png)
 
-[Download Workflow](https://github.com/drewbarontini/alfred/raw/master/Workflows/Gificiency.alfredworkflow)
+[Download Workflow](http://drewb.io/download/Gificiency.alfredworkflow)
 
