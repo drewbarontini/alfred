@@ -1,7 +1,7 @@
 Alfred Themes and Workflows
 ===========================
 
-My personal themes/workflows for Alfred.
+My personal themes and workflows for [Alfred](http://alfredapp.com/).
 
 Themes
 ------
