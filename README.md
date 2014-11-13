@@ -14,13 +14,9 @@ _Download the Theme and double-click on the file to install in Alfred._
 
 ![Minimal Light](Themes/Screenshots/screenshot-minimal.png)
 
-[Download Theme](https://github.com/drewbarontini/alfred/raw/master/Themes/Minimal%20Light.alfredappearance)
-
 ### Yosemite (Custom)
 
 ![Yosemite (Custom)](Themes/Screenshots/screenshot-yosemite.png)
-
-[Download Theme](https://github.com/drewbarontini/alfred/raw/master/Themes/Yosemite%20(Custom).alfredappearance)
 
 Workflows
 ---------
