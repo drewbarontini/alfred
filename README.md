@@ -34,7 +34,7 @@ _Download the Workflow and double-click on the file to install in Alfred._
 A Workflow to grab a GIF in a specificed category from [Gificiency](http://gificiency.com).
 
 - `gif <category>` will grab a random GIF in the specified category and paste it to your clipboard.
-- `gif random` will grab a random GIF across _all_ the GIFs and pasted it to your clipboard.
+- `gif random` will grab a random GIF across _all_ the GIFs and paste it to your clipboard.
 
 ![Gificiency](Workflows/Screenshots/screenshot-gificiency.png)
 
