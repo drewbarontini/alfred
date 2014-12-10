@@ -16,12 +16,6 @@ _Download the Theme and double-click on the file to install in Alfred._
 
 [Download Theme](http://drewb.io/download/Minimal%20Light.zip)
 
-### Yosemite
-
-![Yosemite](Themes/Screenshots/screenshot-yosemite.png)
-
-[Download Theme](http://drewb.io/download/Yosemite.zip)
-
 Workflows
 ---------
 

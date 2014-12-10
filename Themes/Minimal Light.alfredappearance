@@ -4,8 +4,8 @@
 <dict>
 	<key>background</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmgx+Faz+DH4VrP4MfhWs/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgEBhg==
 	</data>
 	<key>border</key>
 	<data>
@@ -21,29 +21,29 @@
 	<key>name</key>
 	<string>Minimal Light</string>
 	<key>resultPaddingSize</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>resultSelectedBackgroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoMzMzM/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg6GgoDyDubg4PoOkoyM/AYY=
 	</data>
 	<key>resultSelectedSubtextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoPNzMw+AYY=
+	ZgGDAAAAP4Y=
 	</data>
 	<key>resultSelectedTextColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoMAAIA+AYY=
+	ZgEBhg==
 	</data>
 	<key>resultSubtextColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg2ZmJj+DZmYmP4NmZiY/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZoOiXCY/AYY=
 	</data>
 	<key>resultSubtextFont</key>
-	<string>Lucida Grande</string>
+	<string>Helvetica</string>
 	<key>resultSubtextFontSize</key>
 	<integer>1</integer>
 	<key>resultTextColor</key>
@@ -63,28 +63,28 @@
 	<key>searchBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZgEAhg==
+	ZoPYEGY/AYY=
 	</data>
 	<key>searchFont</key>
 	<string>Helvetica</string>
 	<key>searchFontSize</key>
-	<integer>3</integer>
+	<integer>4</integer>
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoMAAIA+AYY=
+	ZoMNZUg+AYY=
 	</data>
 	<key>searchPaddingSize</key>
-	<integer>0</integer>
+	<integer>2</integer>
 	<key>searchSelectionBackgroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg8LAQD+DwsBAP4PCwEA/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZoPYkD8/AYY=
 	</data>
 	<key>searchSelectionForegroundColor</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg4WEhD6DhYSEPoOFhIQ+AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZoMAAEo+AYY=
 	</data>
 	<key>separatorColor</key>
 	<data>
@@ -103,11 +103,11 @@
 	<key>shortcutSelectedColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
-	ZoOamZk+AYY=
+	ZgGDAAAAP4Y=
 	</data>
 	<key>uid</key>
 	<string>alfred.theme.custom.3AC0BE06-ED2B-4420-AAB0-D5E915F5662D</string>
 	<key>widthSize</key>
-	<integer>2</integer>
+	<integer>3</integer>
 </dict>
 </plist>
