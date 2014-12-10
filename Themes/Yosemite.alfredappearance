@@ -5,7 +5,7 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBgwAAQD+G
+	ZmZmAQEBg83MTD+G
 	</data>
 	<key>border</key>
 	<data>
@@ -19,7 +19,7 @@
 	<key>imageStyle</key>
 	<integer>3</integer>
 	<key>name</key>
-	<string>Yosemite (Custom)</string>
+	<string>Yosemite</string>
 	<key>resultPaddingSize</key>
 	<integer>1</integer>
 	<key>resultSelectedBackgroundColor</key>
@@ -98,6 +98,6 @@
 	<key>uid</key>
 	<string>alfred.theme.custom.BC55F1AB-656D-431E-8A5A-28B94339BC86</string>
 	<key>widthSize</key>
-	<integer>4</integer>
+	<integer>3</integer>
 </dict>
 </plist>
